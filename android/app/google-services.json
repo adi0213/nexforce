@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615480465607",
+    "project_id": "nexforce-90202",
+    "storage_bucket": "nexforce-90202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615480465607:android:fae569ee19c0fdb92b46e2",
+        "android_client_info": {
+          "package_name": "com.example.nex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1t81pg4csi_wvK1vIsZ3MJCWIEAFv1V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
